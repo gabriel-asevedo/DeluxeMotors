@@ -1,4 +1,4 @@
-<div text align="center"> 
+<div text align="center">
   <h1>💎DeluxeMotors💎</h1>
 </div>
 </br>
